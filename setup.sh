@@ -7,8 +7,7 @@ sudo apt update -y
 echo "🐳 Installing Docker..."
 sudo apt install -y docker.io
 
-echo "🔧 Installing git..."
-sudo apt install -y git
+
 
 echo "✅ Enabling and starting Docker service..."
 sudo systemctl enable docker
