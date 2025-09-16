@@ -20,7 +20,7 @@ TIMEZONE="Asia/Kolkata"
 WEBHOOK_URL="https://exn8n1.ankitktool.com"
 
 # 👇 Replace <YOUR_PERSONAL_ACCESS_TOKEN> with your GitHub token
-GITHUB_REPO_URL="https://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@github.com/sykocode33/n8nwork.git"
+GITHUB_REPO_URL="https://github.com/sykocode33/n8nwork.git"
 
 echo "📁 Creating host path: $HOST_PATH"
 mkdir -p "$HOST_PATH"
